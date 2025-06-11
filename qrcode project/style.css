@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(142, 142, 218);
+    font-family: 'Outfit', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    background-color: white;
+    border-radius:1rem;
+    padding: 0.5rem;
+    width: 320px;
+    height: 400px;
+    text-align: center;
+}
